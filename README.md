@@ -1,6 +1,6 @@
 # ChatGPT Clone
 
-A **ChatGPT-clone** built with modern technologies to interact with OpenAI's API and mimic ChatGPT functionalities. This project includes both frontend and backend implementations with seamless API integration.
+A **ChatGPT-clone** built with modern technologies in React with the help of OpanAI API. This ChatGPT clone works same as the real ChatGPT app or website.
 
 
 ## 📦 Installation
